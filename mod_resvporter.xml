@@ -12,7 +12,6 @@
         <filename>mod_resvporter.xml</filename>
         <filename module="mod_resvporter">mod_resvporter.php</filename>
         <filename>index.html</filename>
-        <filename>helper.php</filename>
         <folder>tmpl</folder>
     </files>
     <config>
