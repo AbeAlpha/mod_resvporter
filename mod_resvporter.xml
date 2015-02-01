@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1.0" client="site" method="upgrade">
+    <name>Responsive Viewporter</name>
+	<author>AbeAlpha</author>
+	<creationDate>January 2015</creationDate>
+	<copyright>2015</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<authorUrl>https://github.com/AbeAlpha/mod_resvporter</authorUrl>
+	<version>1.0</version>
+	<description>Allows user interfaces adapted to the environment through structures and fluid images.</description>
+    <files>
+        <filename>mod_resvporter.xml</filename>
+        <filename module="mod_resvporter">mod_resvporter.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <folder>tmpl</folder>
+    </files>
+    <config>
+    </config>
+</extension>
